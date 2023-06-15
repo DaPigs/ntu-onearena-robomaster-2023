@@ -1,5 +1,5 @@
 # NTU onearena 2023 working code
-works. full marks for final competition. judge say our aligning code is very good.
+works. full marks for final competition. 6.0 min taken, no code edits made during competition. judge say our aligning code is very good.
 
 Need to change the first 15 lines of code to suit your robot. Cause some data can be different for each robot. Try not to touch line 15 onwards.
 

@@ -1,7 +1,11 @@
 # NTU onearena 2023 working code
+
+# Complains about onearena 2023
 works. full marks for final competition. 6.0 min taken, one run through.
 
-2nd fastest team for final competition. Ranked only 4th place because we screwed up amazing race. Unfair treatment because the 2nd team (from ASRJC) hardcoded it. respect++ because hardcoding is actually harder than my code. But still I'm not very happy because the final committee decided to accept hardcoding, while they did not in year 2022.
+2nd fastest team for final competition. Ranked only 4th place because we screwed up amazing race. Unfair treatment as the 2nd team (from ASRJC) hardcoded it. Although hardcoding is actually harder, I'm not very happy because the final committee decided to accept hardcoding, while they did not in year 2022.
+
+# How to use the code
 
 You need to change the first 15 lines of code to suit your robot. Cause some data can be different for each robot.
 
